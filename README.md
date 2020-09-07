@@ -1,0 +1,2 @@
+# Least-Cost-Flight-Path-Optimization-Problem
+This project Python to read in a data set of Texas cities and the associated flight costs between them (if a flight exists). The costs are provided in an excel spreadsheet. Our program utilizes Python to read in the data and find the cheapest flight path (direct or includes layovers) when you input the departure and destination. While the data for this sample is small, it is scalable and can take any much larger datasets without any edits in the code. 
